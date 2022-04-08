@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+float n1,n2,product;
+int main()
+{
+	cout<<"enter the two numbers to find the product"<<endl;
+	cin>>n1>>n2;
+	product=n1*n2;
+	cout<<"The obtained product is "<<product<<endl;
+	
+	
+	return 0;
+
+}
